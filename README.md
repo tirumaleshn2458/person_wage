@@ -14,4 +14,5 @@ Going through the project notebooks contains python code for each cell and will 
 - To be defined(For training the model)
 
 Deployment:- https://tirumaleshndeployments2022.herokuapp.com/
+
 Click the above link and go through the sections to access the project.
